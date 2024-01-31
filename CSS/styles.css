@@ -162,11 +162,11 @@ Elimina el margen del ultimo elemento de la navegacion*/
 .grafico--camisas{
     grid-row: 2 / 3;
    
-    background-image: url(/FrontEndStore_inicio/img/grafico1.jpg);
+    background-image: url("../img/grafico1.jpg");
 }
 
 .grafico--node{
-    background-image: url(/FrontEndStore_inicio/img/grafico2.jpg);
+    background-image: url("../img/grafico2.jpg");
     grid-row: 8 / 9;
 }
 @media (min-width:768px){
